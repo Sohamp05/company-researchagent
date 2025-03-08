@@ -1,0 +1,42 @@
+!!python/object/new:langgraph.pregel.io.AddableValuesDict
+dictitems:
+  company_name: zomato
+  results:
+    audience:
+      demographics: Around 39% of Zomato's target audience belongs to the age of 25
+        to 34 years, and they are largely urban and tech-savvy.
+      key_metrics: {}
+      summary: Zomato's target audience is largely urban, tech-savvy individuals aged
+        between 25 to 34 years. The company appeals to both casual diners and food
+        enthusiasts looking for diverse dining options, reviews, and timely food delivery.
+    competitors: []
+    exists: true
+    finance: {}
+    general: {}
+    markets: {}
+    paralegal:
+      key_metrics: {}
+      summary: Zomato's predictive analysis for gaining a competitive edge in the
+        food delivery market, focusing on unit economics, restaurant data, exploratory
+        data analysis, predictive analytics, and real-world case studies.
+    political:
+      demographics: Zomato's audience demographics include a wide range of age groups,
+        income levels, and geographical locations, reflecting the diversity of the
+        food delivery market.
+      key_metrics: {}
+      lobbying_activities: Zomato may engage in lobbying activities to influence regulations
+        and policies affecting its operations, such as those related to food safety,
+        labor laws, and digital commerce.
+      news_links:
+      - https://www.example.com/zomato-economics
+      - https://www.example.com/zomato-politics
+      political_contributions: There is no specific information available about Zomato's
+        political contributions in this context.
+      regulatory_environment: The regulatory environment for Zomato involves various
+        rules and regulations governing food safety, data privacy, and competition
+        in the food delivery market.
+      sentiment: The sentiment towards Zomato is generally positive, with customers
+        appreciating its convenience, variety, and user-friendly interface.
+      summary: Zomato is a major player in the food delivery industry, influenced
+        by political, economic, sociological, technological, legal, and environmental
+        factors.
